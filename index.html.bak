@@ -307,8 +307,8 @@
                             <li class="active" data-filter="*">所有类型</li>
                             <li data-filter=".packaging">选择界面</li>
                             <li data-filter=".mockup">游戏界面</li>
-                            <li data-filter=".typography">其他</li>
-                            <li data-filter=".photography">换装</li>
+                            <li data-filter=".typography">这是啥</li>
+                            <li data-filter=".photography">哦哦哦</li>
                         </ul>
                     </div>
                     
@@ -318,7 +318,7 @@
                               <div class="relative">
                                 <div class="thumb">
                                   <div class="overlay overlay-bg"></div>
-                                   <img class="image img-fluid" src="images/UI5.jpg" alt="">
+                                   <img class="image img-fluid" src="images/ui5.jpg" alt="">
                                 </div>
                   <a href="images/UI5.jpg" class="img-pop-up">
                     <div class="middle">
